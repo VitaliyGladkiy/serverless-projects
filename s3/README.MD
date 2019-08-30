@@ -1,0 +1,2 @@
+- sls offline - run ofline
+- sls deploy deplot to the server
